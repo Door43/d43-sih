@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sih:home|Door43 (sih)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sih|d43-sih repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sih/archive/master.zip|d43-sih.zip]]
+
+**Recent Changes**
+{{changes>ns = sih}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sih|Ethnologue data]]
+
